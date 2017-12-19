@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Nf-Cleanup">
+    <serverData>
+      <paths name="Nf-Cleanup">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="wordpress/wp-content/plugins/nf-cleanup" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+input,
+input:focus,
+input:hover,
+textarea,
+textarea:focus
+{
+    border:0!important;
+    border-bottom: 0.01em solid gray;
+    outline:0!important;
+    box-shadow: none!important;
+    -moz-box-shadow: none!important;
+    background-image: none!important;
+    -webkit-box-shadow: none!important;
+    -o-box-shadow: none!important;
+    background-color:transparent!important;
+
+}

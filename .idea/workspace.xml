@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62e39728-2d93-4c34-8821-dfff6699a920" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DrupalConfiguration">
+    <drupalPath />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="nf-cleanup" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="nf-cleanup-add-new-handle-functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/partials/pages/nf-cleanup-add-new-handle-functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="41" />
+              <folding>
+                <element signature="e#6#64#0#PHP" expanded="true" />
+                <marker date="1503573955888" expanded="true" signature="1762:1824" ph="DELETE FROM " />
+                <marker date="1503573955888" expanded="true" signature="2243:2256" ph="DELETE FROM " />
+                <marker date="1503573955888" expanded="true" signature="2243:2300" ph="DELETE FROM " />
+                <marker date="1503573955888" expanded="true" signature="2243:2301" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nf-cleanup-admin.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/js/nf-cleanup-admin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="137" column="33" lean-forward="true" selection-start-line="137" selection-start-column="33" selection-end-line="137" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nf-cleanup-run-handlers-display.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/partials/pages/nf-cleanup-run-handlers-display.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+              <folding>
+                <element signature="e#6#65#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nf-cleanup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nf-cleanup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="40" column="37" lean-forward="false" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runhandlers.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/partials/parts/runhandlers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="28" column="64" lean-forward="true" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nf-cleanup-admin-display.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/partials/nf-cleanup-admin-display.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="128" lean-forward="false" selection-start-line="16" selection-start-column="128" selection-end-line="16" selection-end-column="128" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-nf-cleanup-admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/class-nf-cleanup-admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nf-cleanup-public.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/nf-cleanup-public.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nf-cleanup-admin.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/css/nf-cleanup-admin.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2205">
+              <caret line="105" column="16" lean-forward="false" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>auto-clean</find>
+      <find>c</find>
+      <find>fetchspinner</find>
+      <find>fetch</find>
+      <find>HID:</find>
+      <find>confirm_handle</find>
+      <find>refreshcar</find>
+      <find>checkdupli</find>
+      <find>deletehandlerbtn</find>
+      <find>gethandlers</find>
+      <find>searcharray</find>
+      <find>fieldchips</find>
+      <find>delsubbtn</find>
+      <find>refresh</find>
+      <find>delsubb</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.txt" />
+        <option value="$PROJECT_DIR$/admin/partials/pages/nf-cleanup-add-new-handle.php" />
+        <option value="$PROJECT_DIR$/nf-cleanup.php" />
+        <option value="$PROJECT_DIR$/admin/js/material.min.js" />
+        <option value="$PROJECT_DIR$/admin/css/material.min.css" />
+        <option value="$PROJECT_DIR$/includes/class-nf-cleanup.php" />
+        <option value="$PROJECT_DIR$/admin/css/reset.css" />
+        <option value="$PROJECT_DIR$/includes/activate-funcs.php" />
+        <option value="$PROJECT_DIR$/includes/class-nf-cleanup-activator.php" />
+        <option value="$PROJECT_DIR$/admin/partials/pages/nf-cleanup-add-new-handle-display.php" />
+        <option value="$PROJECT_DIR$/admin/partials/pages/nf-cleanup-run-handlers.php" />
+        <option value="$PROJECT_DIR$/includes/class/parser.class.php" />
+        <option value="$PROJECT_DIR$/includes/class/handler.class.php" />
+        <option value="$PROJECT_DIR$/admin/css/nf-cleanup-admin.css" />
+        <option value="$PROJECT_DIR$/public/js/nf-cleanup-public.js" />
+        <option value="$PROJECT_DIR$/admin/partials/parts/runhandlers.php" />
+        <option value="$PROJECT_DIR$/admin/partials/pages/nf-cleanup-add-new-handle-functions.php" />
+        <option value="$PROJECT_DIR$/admin/partials/pages/nf-cleanup-run-handlers-display.php" />
+        <option value="$PROJECT_DIR$/admin/js/nf-cleanup-admin.js" />
+        <option value="$PROJECT_DIR$/admin/class-nf-cleanup-admin.php" />
+        <option value="$PROJECT_DIR$/admin/partials/nf-cleanup-admin-display.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JoomlaConfiguration">
+    <joomlaConfigPath />
+    <joomlaPath />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../.." />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="993" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1294" />
+    <option name="height" value="1058" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nf-cleanup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="nf-cleanup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="nf-cleanup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="nf-cleanup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="nf-cleanup" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="nf-cleanup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="nf-cleanup" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="nf-cleanup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="nf-cleanup" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="nf-cleanup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wordpress" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="nf-cleanup" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="nf-cleanup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\wordpress\wp-content\plugins\nf-cleanup\admin\partials" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\wordpress\wp-content\plugins\nf-cleanup\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.nf-cleanup">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration name="nf-cleanup" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.nf-cleanup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62e39728-2d93-4c34-8821-dfff6699a920" name="Default" comment="" />
+      <created>1498743603510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498743603510</updated>
+      <workItem from="1498743604977" duration="7856000" />
+      <workItem from="1498827174315" duration="51861000" />
+      <workItem from="1500026267969" duration="53847000" />
+      <workItem from="1501270419009" duration="626000" />
+      <workItem from="1501502169135" duration="6084000" />
+      <workItem from="1501751361859" duration="3827000" />
+      <workItem from="1501755758695" duration="7780000" />
+      <workItem from="1501836003727" duration="13259000" />
+      <workItem from="1502287798239" duration="1301000" />
+      <workItem from="1503566500939" duration="440000" />
+      <workItem from="1503566987643" duration="2891000" />
+      <workItem from="1503566349787" duration="9633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="159405000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-290" y="-1089" width="2578" height="1068" extended-state="6" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13867188" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26528385" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>D:\Development\xampp\htdocs\wordpress</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/partials/pages/nf-cleanup-run-handlers-display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="e#6#65#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class/parser.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="17" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="39" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/css/nf-cleanup-admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="114" column="30" lean-forward="true" selection-start-line="114" selection-start-column="30" selection-end-line="114" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nf-cleanup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="40" column="37" lean-forward="true" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-nf-cleanup-activator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/class-nf-cleanup-admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="70" column="75" lean-forward="true" selection-start-line="70" selection-start-column="75" selection-end-line="70" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class/handler.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4114">
+          <caret line="242" column="49" lean-forward="false" selection-start-line="242" selection-start-column="49" selection-end-line="242" selection-end-column="49" />
+          <folding>
+            <marker date="1501856646000" expanded="true" signature="497:550" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="2318:2393" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="4969:5341" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="5100:5264" ph="SELECT `meta... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="6065:6119" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="6966:7039" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="7091:7192" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="8583:8656" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="9995:10063" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="10176:10241" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="10459:10534" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="10679:10771" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="12204:12279" ph="DELETE FROM " />
+            <marker date="1501856646000" expanded="true" signature="12341:12404" ph="DELETE FROM " />
+            <marker date="1501856646000" expanded="true" signature="12659:12722" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="12987:13059" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="14218:14317" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="15378:15440" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/partials/pages/nf-cleanup-add-new-handle-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#64#0#PHP" expanded="true" />
+            <marker date="1503573955888" expanded="true" signature="1762:1824" ph="DELETE FROM " />
+            <marker date="1503573955888" expanded="true" signature="2243:2256" ph="DELETE FROM " />
+            <marker date="1503573955888" expanded="true" signature="2243:2300" ph="DELETE FROM " />
+            <marker date="1503573955888" expanded="true" signature="2243:2301" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class/handler.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <marker date="1501856646000" expanded="true" signature="497:550" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="2318:2393" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="4969:5341" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="5100:5264" ph="SELECT `meta... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="6065:6119" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="6966:7039" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="7091:7192" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="8583:8656" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="9995:10063" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="10176:10241" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="10459:10534" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="10679:10771" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="12204:12279" ph="DELETE FROM " />
+            <marker date="1501856646000" expanded="true" signature="12341:12404" ph="DELETE FROM " />
+            <marker date="1501856646000" expanded="true" signature="12659:12722" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="12987:13059" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="14218:14317" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="15378:15440" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/nf-cleanup-admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/class-nf-cleanup-admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/partials/pages/nf-cleanup-add-new-handle-display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="124" column="107" lean-forward="false" selection-start-line="124" selection-start-column="107" selection-end-line="124" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/css/nf-cleanup-admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="15" lean-forward="true" selection-start-line="66" selection-start-column="15" selection-end-line="66" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class/parser.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nf-cleanup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="40" column="37" lean-forward="true" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-nf-cleanup-activator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/activate-funcs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="23" lean-forward="false" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/class-nf-cleanup-admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/partials/pages/nf-cleanup-add-new-handle-display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/css/nf-cleanup-admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/partials/nf-cleanup-admin-display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-nf-cleanup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="160" column="81" lean-forward="true" selection-start-line="160" selection-start-column="81" selection-end-line="160" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/languages/nf-cleanup.pot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/class-nf-cleanup-public.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-815">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="54" column="23" lean-forward="false" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/css/material.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="7" column="141121" lean-forward="false" selection-start-line="7" selection-start-column="141121" selection-end-line="7" selection-end-column="141121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-nf-cleanup-loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-nf-cleanup-i18n.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/ldap/ldap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1684">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class/parser.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-nf-cleanup-activator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/material.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="7" column="993" lean-forward="false" selection-start-line="7" selection-start-column="993" selection-end-line="7" selection-end-column="993" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/activate-funcs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="77" column="8" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+          <folding>
+            <marker date="1499953436000" expanded="true" signature="510:824" ph="CREATE TABLE... ${$tablename_handler}" />
+            <marker date="1499953436000" expanded="true" signature="870:1048" ph="CREATE TABLE... ${$tablename_handlerfields}" />
+            <marker date="1499953436000" expanded="true" signature="1088:1290" ph="CREATE TABLE... ${$tablename_runlog}" />
+            <marker date="1499953436000" expanded="true" signature="1336:1485" ph="CREATE TABLE... ${$tablename_runIntervals}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class-nf-cleanup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="189" column="26" lean-forward="true" selection-start-line="189" selection-start-column="26" selection-end-line="189" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/class/handler.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="524" column="25" lean-forward="false" selection-start-line="524" selection-start-column="25" selection-end-line="524" selection-end-column="25" />
+          <folding>
+            <marker date="1501856646000" expanded="true" signature="497:550" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="2318:2393" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="4969:5341" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="5100:5264" ph="SELECT `meta... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="6065:6119" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="6966:7039" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="7091:7192" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="8583:8656" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="9995:10063" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="10176:10241" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="10459:10534" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="10679:10771" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="12204:12279" ph="DELETE FROM " />
+            <marker date="1501856646000" expanded="true" signature="12341:12404" ph="DELETE FROM " />
+            <marker date="1501856646000" expanded="true" signature="12659:12722" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="12987:13059" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="14218:14317" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+            <marker date="1501856646000" expanded="true" signature="15378:15440" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/css/nf-cleanup-admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="105" column="16" lean-forward="false" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/nf-cleanup-public.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/partials/pages/nf-cleanup-add-new-handle-display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1911">
+          <caret line="97" column="12" lean-forward="false" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="130" />
+          <folding>
+            <marker date="1501149056000" expanded="true" signature="257:309" ph="SELECT * FRO... wp_prefixnf" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/partials/parts/runhandlers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="28" column="64" lean-forward="true" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/partials/pages/nf-cleanup-add-new-handle-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <element signature="e#6#64#0#PHP" expanded="true" />
+            <marker date="1503573955888" expanded="true" signature="1762:1824" ph="DELETE FROM " />
+            <marker date="1503573955888" expanded="true" signature="2243:2256" ph="DELETE FROM " />
+            <marker date="1503573955888" expanded="true" signature="2243:2300" ph="DELETE FROM " />
+            <marker date="1503573955888" expanded="true" signature="2243:2301" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/nf-cleanup-admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="137" column="33" lean-forward="true" selection-start-line="137" selection-start-column="33" selection-end-line="137" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/partials/pages/nf-cleanup-run-handlers-display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding>
+            <element signature="e#6#65#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nf-cleanup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="40" column="37" lean-forward="false" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/class-nf-cleanup-admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="119" column="0" lean-forward="true" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/partials/nf-cleanup-admin-display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="128" lean-forward="false" selection-start-line="16" selection-start-column="128" selection-end-line="16" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
